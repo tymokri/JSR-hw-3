@@ -1,0 +1,18 @@
+.App {
+  display: flex;
+  justify-content: center;
+}
+
+.definitions-list {
+  font-size: 22px;
+  min-width: 300px;
+  margin-top: 50px;
+  padding: 30px;
+  background-color: #6e979f;
+  border-radius: 20px;
+  box-shadow: 3px 3px 10px black;
+}
+
+dt {
+  font-weight: bold;
+}
